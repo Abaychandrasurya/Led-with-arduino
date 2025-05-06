@@ -13,7 +13,7 @@ This project demonstrates how to control an LED using a push button and an Ardui
 
 ## Circuit Diagram
 
-![Arduino LED Button Project](./Screenshot%202025-05-06%20185636.png)
+![Arduino LED Button Project](./image1.png)
 
 ## How It Works
 
